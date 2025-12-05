@@ -1,0 +1,154 @@
+{
+  "happy": [
+    {
+      "title": "Walking on Sunshine",
+      "artist": "Katrina & The Waves",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+    },
+    {
+      "title": "Happy Together",
+      "artist": "The Turtles",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+    },
+    {
+      "title": "Good Vibrations",
+      "artist": "The Beach Boys",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3"
+    },
+    {
+      "title": "Don't Stop Me Now",
+      "artist": "Queen",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3"
+    },
+    {
+      "title": "I Feel Good",
+      "artist": "James Brown",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3"
+    }
+  ],
+  "sad": [
+    {
+      "title": "The Sound of Silence",
+      "artist": "Simon & Garfunkel",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+    },
+    {
+      "title": "Tears in Heaven",
+      "artist": "Eric Clapton",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3"
+    },
+    {
+      "title": "Someone Like You",
+      "artist": "Adele",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3"
+    },
+    {
+      "title": "Fix You",
+      "artist": "Coldplay",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3"
+    },
+    {
+      "title": "Hurt",
+      "artist": "Johnny Cash",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3"
+    }
+  ],
+  "angry": [
+    {
+      "title": "Break Stuff",
+      "artist": "Limp Bizkit",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3"
+    },
+    {
+      "title": "Killing in the Name",
+      "artist": "Rage Against the Machine",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3"
+    },
+    {
+      "title": "Bodies",
+      "artist": "Drowning Pool",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3"
+    },
+    {
+      "title": "Thunderstruck",
+      "artist": "AC/DC",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3"
+    }
+  ],
+  "anxious": [
+    {
+      "title": "Weightless",
+      "artist": "Marconi Union",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3"
+    },
+    { "title": "Breathe Me", "artist": "Sia", "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3" },
+    {
+      "title": "River Flows in You",
+      "artist": "Yiruma",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+    },
+    {
+      "title": "Clair de Lune",
+      "artist": "Debussy",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+    }
+  ],
+  "energetic": [
+    {
+      "title": "Eye of the Tiger",
+      "artist": "Survivor",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+    },
+    {
+      "title": "Pump It",
+      "artist": "Black Eyed Peas",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3"
+    },
+    {
+      "title": "Can't Hold Us",
+      "artist": "Macklemore",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3"
+    },
+    {
+      "title": "Till I Collapse",
+      "artist": "Eminem",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3"
+    }
+  ],
+  "frustrated": [
+    {
+      "title": "Let It Go",
+      "artist": "James Bay",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3"
+    },
+    {
+      "title": "Shake It Off",
+      "artist": "Taylor Swift",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3"
+    },
+    {
+      "title": "Don't Worry Be Happy",
+      "artist": "Bobby McFerrin",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3"
+    }
+  ],
+  "calm": [
+    {
+      "title": "Sunset Lover",
+      "artist": "Petit Biscuit",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3"
+    },
+    {
+      "title": "Breathe",
+      "artist": "Telepopmusik",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3"
+    },
+    { "title": "Porcelain", "artist": "Moby", "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3" },
+    {
+      "title": "Teardrop",
+      "artist": "Massive Attack",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3"
+    },
+    { "title": "Clocks", "artist": "Coldplay", "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3" }
+  ]
+}

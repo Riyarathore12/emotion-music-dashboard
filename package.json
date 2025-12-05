@@ -1,0 +1,48 @@
+{
+  "name": "emotion-music-dashboard-fixed",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@radix-ui/react-checkbox": "^1.3.3",
+    "@vercel/analytics": "latest",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "embla-carousel-react": "^8.6.0",
+    "face-api.js": "^0.22.2",
+    "howler": "latest",
+    "jiti": "latest",
+    "less": "latest",
+    "lightningcss": "latest",
+    "lucide-react": "^0.454.0",
+    "next": "16.0.7",
+    "react": "^18.2.0",
+    "react-dom": "^18.3.1",
+    "sass": "latest",
+    "sass-embedded": "latest",
+    "stylus": "latest",
+    "sugarss": "latest",
+    "tailwind-merge": "^2.5.5",
+    "tailwindcss-animate": "^1.0.7",
+    "terser": "latest",
+    "tsx": "latest",
+    "tw-animate-css": "latest",
+    "yaml": "latest"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.17",
+    "@types/node": "^22",
+    "@types/react": "19.2.7",
+    "@types/react-dom": "19.2.3",
+    "@vitejs/plugin-react": "^4.0.0",
+    "autoprefixer": "^10.4.22",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.17",
+    "typescript": "^5",
+    "vite": "^5.0.0"
+  }
+}
